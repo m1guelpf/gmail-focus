@@ -11,6 +11,6 @@
 
 }
 
-.nH.ar4:not(.B) tr[jsaction]:not(:first-child) * {
+body.notSearching tr[jsaction]:not(:first-child) * {
     font-family: "redacted_scriptbold";
 }
